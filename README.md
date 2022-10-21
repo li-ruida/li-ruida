@@ -7,6 +7,7 @@
   -   [Telegram](https://t.me/vagabond233) 
   -   [Steam ID:1124537402](https://steamcommunity.com/id/lrdhappy)  
   -   [Blog](https://blog.lrdhappy.com/)
+  -   [Email](2605209238@qq.com)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=li-ruida&show_icons=true)
