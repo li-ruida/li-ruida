@@ -10,10 +10,6 @@
   -   [Email](2605209238@qq.com)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=li-ruida&show_icons=true)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=li-ruida&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" />
 
