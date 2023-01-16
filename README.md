@@ -18,8 +18,9 @@
 <code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
   
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=li-ruida&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=li-ruida&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" />
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-ruida&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
 
 
 
