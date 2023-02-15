@@ -5,7 +5,7 @@
   -   [Telegram](https://t.me/vagabond233) 
   -   [Steam ID:](https://steamcommunity.com/id/lrdhappy)  1124537402
   -   [Blog](https://blog.lrdhappy.com/)
-  -   [Email](2605209238@qq.com)
+  -   [Email](liruida_mail@qq.com)
 
 
 
