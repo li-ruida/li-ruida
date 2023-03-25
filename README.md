@@ -2,7 +2,6 @@
 
 
 - 📫 How to reach me: 
-  -   [Telegram](https://t.me/vagabond233) 
   -   [Steam ID:](https://steamcommunity.com/id/lrdhappy)  1124537402
   -   [Blog](https://blog.lrdhappy.com/)
   -   [Email](liruida_mail@qq.com)
