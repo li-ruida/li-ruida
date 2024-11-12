@@ -3,7 +3,7 @@
 
 - 📫 How to reach me: 
   -   [Steam ID:](https://steamcommunity.com/id/lrdhappy)  1124537402
-  -   [Blog](https://blog.lrdhappy.com/)
+  -   [Blog](https://blog.ruida.li/)
   -   [Email](liruida_mail@qq.com)
 
 
